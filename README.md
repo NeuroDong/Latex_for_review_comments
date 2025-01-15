@@ -1,5 +1,5 @@
 # Latex_for_review_comments
-A personalized modification on [Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex). 
+A personalized modification on [Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex). The modified contents are as follows:
 
 - We added the contents and the font color of the Response content. 
 
