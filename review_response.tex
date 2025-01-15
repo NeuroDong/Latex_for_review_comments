@@ -1,0 +1,113 @@
+\documentclass[12pt,american]{article}
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+\usepackage[hidelinks]{hyperref}
+\usepackage{babel}
+\usepackage[babel]{microtype}
+\usepackage[babel]{csquotes}
+\usepackage[journal={IEEE Transactions on Neural Networks and Learning Systems},
+			manuscript={TNNLS-2024-S-XXXX},
+			editor={Dr. Song}]{reviewresponse}
+			
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage[a4paper,total={160mm,245mm},left=25mm,top=25mm]{geometry}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{.5pt}
+\usepackage[shortlabels]{enumitem}
+\newlist{detail}{itemize}{3}
+\setlist[detail, 1]{label=\textbullet,leftmargin=21pt,nosep}
+\usepackage[backend=biber,style=ieee,dashed=false,url=false,isbn=false,defernumbers=false,refsection=section]{biblatex}
+
+\usepackage{amsmath,amsfonts}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{pifont}
+\usepackage{makecell}
+\usepackage{threeparttable}
+\usepackage{extarrows}
+\usepackage{bm}
+
+\usepackage{multicol}
+\usepackage{csquotes}
+\usepackage{arydshln}
+
+\usepackage{hyperref}
+\usepackage{caption}
+
+\usepackage{lipsum}
+
+
+\usepackage{xcolor}
+\usepackage{colortbl}
+\definecolor{color1}{rgb}{0.9764,0.8039,0.6784}
+\definecolor{color2}{rgb}{0.7843,0.7843,0.6627}
+\definecolor{color3}{rgb}{0.5137,0.6862,0.6078}
+
+\usepackage{amsthm}
+\theoremstyle{plain}  %plain,definition,remark
+\newtheorem{theorem}{Theorem}
+\newtheorem{definition}{Definition}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\usepackage{tikz}
+\def\checkm{\tikz\draw[thick,scale=0.2] (0,0.4) -- (0.4,0) -- (1,1);}
+\newcommand{\halfcheckm}{%
+	\begin{tikzpicture}[scale=0.2]
+		\draw[thick] (0,0.4) -- (0.4,0) -- (1,1);
+		\draw[thick] (0.5,1) -- (1,0.3);
+	\end{tikzpicture}%
+}
+\newcommand{\fork}{%
+	\begin{tikzpicture}[scale=0.2]
+		\draw[thick] (0,1) -- (1,0);
+		\draw[thick] (0,0) -- (1,1);
+	\end{tikzpicture}%
+}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,   % 设置链接为蓝色
+	citecolor=blue,
+	urlcolor=blue,
+}
+
+%\bibliography{literature.bib}
+\addbibresource{literature.bib}
+
+\definecolor{lightblue}{RGB}{60, 39, 139}
+
+
+\title{Yor Title}
+%\author{authors.}
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+% Cover Letter
+%\clearpage
+
+\input{cover_letter.tex}
+\setcounter{page}{0}
+\pagestyle{fancy}
+\fancyfoot[R]{\thepage\ / \pageref{LastPage}}
+\fancyfoot[L]{Response Letter for TNNLS-2024-S-XXXX}
+\fancyfoot[C]{\ }
+
+
+\input{Reviewers/Meta.tex}
+\input{Reviewers/Meta1.tex}
+\input{Reviewers/R1.tex}
+
+
+\end{document}
