@@ -7,6 +7,9 @@ A personalized modification on [Journal-Response-Letter-Template-Latex](https://
 
 - All comments belonging each reviewer share one Reference.
 
+# Template Display
+Please click [here](http://xhslink.com/a/Q6a5xwgFV7X4)
+
 # How to Use
 Note that this source code needs to be compiled multiple times according to the steps below, where Biber compile is for compiling references.
 
