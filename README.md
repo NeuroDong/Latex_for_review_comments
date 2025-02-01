@@ -8,7 +8,7 @@ A personalized modification on [Journal-Response-Letter-Template-Latex](https://
 - All comments belonging each reviewer share one Reference.
 
 # Template Display
-Please click [here](http://xhslink.com/a/Q6a5xwgFV7X4)
+Please click [here](https://www.xiaohongshu.com/explore/67878da400000000160205ba?xsec_token=CBwBDXAJ19ZK-vQ9VOViaRuH_df4ArOxeqJ2a7ttAhU-U=&xsec_source=app_share)
 
 # How to Use
 Note that this source code needs to be compiled multiple times according to the steps below, where Biber compile is for compiling references.
