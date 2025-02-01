@@ -1,4 +1,4 @@
-| English| [Chinese](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/chinese_doc.md)|
+English| [Chinese](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/chinese_doc.md)
 
 # Latex Template for Review Comments of Papers
 A personalized modification on [Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex). The modified contents are as follows:
