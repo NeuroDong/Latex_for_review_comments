@@ -8,6 +8,8 @@ A personalized modification on [Journal-Response-Letter-Template-Latex](https://
 - All comments belonging each reviewer share one Reference.
 
 # How to use
+Note that this source code needs to be compiled multiple times according to the steps below, where Biber compile is for compiling references.
+
 Step1: Compile
 
 Step2: Biber compile
