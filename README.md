@@ -19,4 +19,4 @@ Step3: Compile
 Step4: Compile
 
 # Continuous Update
-
+Everyone is welcome to use this repository, raise issues, and pull requests to help optimize this template to help better community members' papers get accepted.
