@@ -3,11 +3,19 @@
 # 论文审稿意见的latex模板
 此仓库是一个对[Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex)的修改版。修改的内容包括但不局限如下：
 
-- 给回复内容块的字体添加了颜色，以更显著区分审稿人的评论和作者的回复。
+2025年1月12号：
 
-- 为每个审稿人添加了一个Summary Comment，并且Summary Comment没有编号。
+  - 给回复内容块的字体添加了颜色，以更显著区分审稿人的评论和作者的回复。
 
-- 每个审稿人的所有评论共用一个参考文献。
+  - 为每个审稿人添加了一个Summary Comment，并且Summary Comment没有编号。
+
+  - 每个审稿人的所有评论共用一个参考文献。
+
+2025年3月29号：
+
+  - 解决了“REFERENCE”会出现在页眉的bug, 详细见：https://github.com/NeuroDong/Latex_for_review_comments/issues/1
+
+  - 允许用户添加和关闭作者信息，分别用于单盲和双盲审稿
 
 # 模板展示
 请点击[这里](https://www.xiaohongshu.com/explore/67878da400000000160205ba?xsec_token=CBwBDXAJ19ZK-vQ9VOViaRuH_df4ArOxeqJ2a7ttAhU-U=&xsec_source=app_share)
