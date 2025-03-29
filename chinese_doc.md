@@ -3,7 +3,7 @@
 # 论文审稿意见的latex模板
 此仓库是一个对[Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex)的修改版。修改的内容包括但不局限如下：
 
-2025年1月12号：
+**2025年1月12号**：
 
   - 给回复内容块的字体添加了颜色，以更显著区分审稿人的评论和作者的回复。
 
@@ -11,7 +11,7 @@
 
   - 每个审稿人的所有评论共用一个参考文献。
 
-2025年3月29号：
+**2025年3月29号**：
 
   - 解决了“REFERENCE”会出现在页眉的bug, 详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/1](https://github.com/NeuroDong/Latex_for_review_comments/issues/1)
 
