@@ -13,7 +13,7 @@
 
 2025年3月29号：
 
-  - 解决了“REFERENCE”会出现在页眉的bug, 详细见：https://github.com/NeuroDong/Latex_for_review_comments/issues/1
+  - 解决了“REFERENCE”会出现在页眉的bug, 详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/1](https://github.com/NeuroDong/Latex_for_review_comments/issues/1)
 
   - 允许用户添加和关闭作者信息，分别用于单盲和双盲审稿
 
