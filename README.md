@@ -24,7 +24,7 @@ A modification on [Journal-Response-Letter-Template-Latex](https://github.com/sh
 - An example of inserting a picture in the Change box is provided, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/2](https://github.com/NeuroDong/Latex_for_review_comments/issues/2)
 
 # Template Display
-Please click [here](https://www.xiaohongshu.com/explore/67878da400000000160205ba?xsec_token=CBwBDXAJ19ZK-vQ9VOViaRuH_df4ArOxeqJ2a7ttAhU-U=&xsec_source=app_share)
+Please click [here](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
 # How to Use
 Note that this source code needs to be compiled multiple times according to the steps below, where Biber compile is for compiling references.
