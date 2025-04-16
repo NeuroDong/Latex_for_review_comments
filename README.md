@@ -17,6 +17,12 @@ A modification on [Journal-Response-Letter-Template-Latex](https://github.com/sh
 
 - Allows users to add and close author information for single-blind and double-blind review respectively.
 
+**April 16, 2025**:
+
+- Solved the bug that the font color of the Change box is inconsistent when it crosses pages, see details: [https://github.com/NeuroDong/Latex_for_review_comments/issues/3](https://github.com/NeuroDong/Latex_for_review_comments/issues/3)
+
+- An example of inserting a picture in the Change box is provided, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/2](https://github.com/NeuroDong/Latex_for_review_comments/issues/2)
+
 # Template Display
 Please click [here](https://www.xiaohongshu.com/explore/67878da400000000160205ba?xsec_token=CBwBDXAJ19ZK-vQ9VOViaRuH_df4ArOxeqJ2a7ttAhU-U=&xsec_source=app_share)
 
