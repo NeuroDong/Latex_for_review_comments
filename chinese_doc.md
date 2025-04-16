@@ -23,7 +23,7 @@
   - 提供了在Change框中插入图片的示例，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/2](https://github.com/NeuroDong/Latex_for_review_comments/issues/2)
 
 # 模板展示
-请点击[这里](https://www.xiaohongshu.com/explore/67878da400000000160205ba?xsec_token=CBwBDXAJ19ZK-vQ9VOViaRuH_df4ArOxeqJ2a7ttAhU-U=&xsec_source=app_share)
+请点击[这里](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
 # 如何使用
 注意，此源代码需要按照下面的步骤多次编译，其中Biber用于编译参考文献。
