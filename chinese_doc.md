@@ -17,6 +17,11 @@
 
   - 允许用户添加和关闭作者信息，分别用于单盲和双盲审稿
 
+**2025年4月16号**：
+  - 解决了Change框跨页时字体颜色不一致的bug, 详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/3](https://github.com/NeuroDong/Latex_for_review_comments/issues/3)
+
+  - 提供了在Change框中插入图片的示例，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/2](https://github.com/NeuroDong/Latex_for_review_comments/issues/2)
+
 # 模板展示
 请点击[这里](https://www.xiaohongshu.com/explore/67878da400000000160205ba?xsec_token=CBwBDXAJ19ZK-vQ9VOViaRuH_df4ArOxeqJ2a7ttAhU-U=&xsec_source=app_share)
 
