@@ -22,6 +22,10 @@
 
   - 提供了在Change框中插入图片的示例，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/2](https://github.com/NeuroDong/Latex_for_review_comments/issues/2)
 
+**2025年5月17号**：
+
+  - 在Change框中添加伪代码，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/6](https://github.com/NeuroDong/Latex_for_review_comments/issues/6)
+
 # 模板展示
 请点击[这里](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
