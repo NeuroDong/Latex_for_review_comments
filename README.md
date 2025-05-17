@@ -23,6 +23,9 @@ A modification on [Journal-Response-Letter-Template-Latex](https://github.com/sh
 
 - An example of inserting a picture in the Change box is provided, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/2](https://github.com/NeuroDong/Latex_for_review_comments/issues/2)
 
+**May 17, 2025**:
+- Add pseudocode in the Change box, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/6](https://github.com/NeuroDong/Latex_for_review_comments/issues/6)
+
 # Template Display
 Please click [here](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
