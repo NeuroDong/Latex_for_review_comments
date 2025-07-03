@@ -30,6 +30,27 @@ Thank you for the pertinent suggestions. We agree with your point of view. We ad
 \includegraphics[width=0.5\textwidth,keepaspectratio]{imgs/IU1.jpg}
 \captionof{figure}{IU}
 \end{changes}
+
+The table is shown in Table \ref{including_criteria_r6}.
+\begin{table}[H]
+	\centering
+	\setlength\tabcolsep{10.pt}%调列距
+	\renewcommand{\arraystretch}{1.5}%调行距
+	\caption{\textcolor{lightblue}{The criteria for including methods.}}
+	\textcolor{lightblue}{\begin{tabular}{ll}
+			\toprule
+			\textbf{Type}& \textbf{Description}\\
+			\midrule
+			Direct solution & Aiming to solve the target problem.\\
+			\arrayrulecolor{lightgray}
+			\hdashline
+			\arrayrulecolor{black}
+			\multirow{2}{*}{Indirect solution}& No aiming to solve other problems;\\
+			&Empirical validation of solving target problem.\\
+			\bottomrule
+	\end{tabular}}
+	\label{including_criteria_r6}
+\end{table}
 	
 \end{revresponse}
 
