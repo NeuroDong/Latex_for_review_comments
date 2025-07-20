@@ -29,6 +29,9 @@ A modification on [Journal-Response-Letter-Template-Latex](https://github.com/sh
 **July 3, 2025**:
 - Added table to template, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/8](https://github.com/NeuroDong/Latex_for_review_comments/issues/8)
 
+**July 20, 2025**:
+- Added table in change, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/9](https://github.com/NeuroDong/Latex_for_review_comments/issues/9)
+
 # Template Display
 Please click [here](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
