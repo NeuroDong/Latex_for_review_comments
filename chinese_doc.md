@@ -26,6 +26,9 @@
 
   - 在Change框中添加伪代码，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/6](https://github.com/NeuroDong/Latex_for_review_comments/issues/6)
 
+**2025年7月3号**
+- 添加表格，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/8](https://github.com/NeuroDong/Latex_for_review_comments/issues/8)
+
 # 模板展示
 请点击[这里](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 

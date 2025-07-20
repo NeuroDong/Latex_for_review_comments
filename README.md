@@ -26,6 +26,9 @@ A modification on [Journal-Response-Letter-Template-Latex](https://github.com/sh
 **May 17, 2025**:
 - Add pseudocode in the Change box, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/6](https://github.com/NeuroDong/Latex_for_review_comments/issues/6)
 
+**July 3, 2025**:
+- Added table to template, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/8](https://github.com/NeuroDong/Latex_for_review_comments/issues/8)
+
 # Template Display
 Please click [here](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
