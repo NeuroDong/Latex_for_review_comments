@@ -3,54 +3,77 @@
 \reviewer
 
 \begin{generalcomment}
-The paper offers an extensive overview of the latest confidence calibration techniques for deep imbalanced learning, presenting significant and relevant research. However, there are a few areas where improvement could be made.
+	The paper offers an extensive overview of the latest confidence calibration techniques for deep imbalanced learning, presenting significant and relevant research. However, there are a few areas where improvement could be made.
 \end{generalcomment}
 \begin{revmeta}[]
-We would like to express our sincere gratitude for your feedback and valuable suggestions on our manuscript. We have carefully considered each of your points and revised them carefully.
+	We would like to express our sincere gratitude for your feedback and valuable suggestions on our manuscript. We have carefully considered each of your points and revised them carefully.
 \end{revmeta}
 
 \begin{revcomment}
-- A summary of the practical domains where these methods have been applied, or could be applied, is missing.
+	- A summary of the practical domains where these methods have been applied, or could be applied, is missing.
 \end{revcomment}
 \begin{revresponse}[]
-Thank you for the pertinent suggestions. We agree with your point of view. We added an application section (Section VIII) on the 18th page of the revised manuscript. For your convenience, we put the newly added application section below, and we hope it will satisfy you.
+	Thank you for the pertinent suggestions. We agree with your point of view. We added an application section (Section VIII) on the 18th page of the revised manuscript. For your convenience, we put the newly added application section below, and we hope it will satisfy you.
 	
-\begin{changes}
-\lipsum[1]
-
-\begin{lstlisting}[language=Python, caption={Algorithm},frame=single]
-	for i in range(1, N+1):
-	# Run
-	perform_operation(i)
-\end{lstlisting}
-
-\lipsum[2]
-
-\centering
-\includegraphics[width=0.5\textwidth,keepaspectratio]{imgs/IU1.jpg}
-\captionof{figure}{IU}
-\end{changes}
-
-The table is shown in Table \ref{including_criteria_r6}.
-\begin{table}[H]
-	\centering
-	\setlength\tabcolsep{10.pt}%调列距
-	\renewcommand{\arraystretch}{1.5}%调行距
-	\caption{\textcolor{lightblue}{The criteria for including methods.}}
-	\textcolor{lightblue}{\begin{tabular}{ll}
-			\toprule
-			\textbf{Type}& \textbf{Description}\\
-			\midrule
-			Direct solution & Aiming to solve the target problem.\\
-			\arrayrulecolor{lightgray}
-			\hdashline
-			\arrayrulecolor{black}
-			\multirow{2}{*}{Indirect solution}& No aiming to solve other problems;\\
-			&Empirical validation of solving target problem.\\
-			\bottomrule
-	\end{tabular}}
-	\label{including_criteria_r6}
-\end{table}
+	\begin{changes}
+		\lipsum[1]
+		
+		\begin{lstlisting}[language=Python, caption={Algorithm},frame=single]
+			for i in range(1, N+1):
+			# Run
+			perform_operation(i)
+		\end{lstlisting}
+		
+		\lipsum[2]
+		
+		{\centering
+			\includegraphics[width=0.5\textwidth,keepaspectratio]{imgs/IU1.jpg}
+			\captionof{figure}{IU}
+		}
+		
+		\lipsum[3] The table is shown in Table \ref{table_one}.
+		\begin{table}[H]
+			\centering
+			\setlength\tabcolsep{10.pt}%调列距
+			\renewcommand{\arraystretch}{1.5}%调行距
+			\caption{The criteria for including methods.}
+			\begin{tabular}{ll}
+				\toprule
+				\textbf{Type}& \textbf{Description}\\
+				\midrule
+				Direct solution & Aiming to solve the target problem.\\
+				\arrayrulecolor{lightgray}
+				\hdashline
+				\arrayrulecolor{black}
+				\multirow{2}{*}{Indirect solution}& No aiming to solve other problems;\\
+				&Empirical validation of solving target problem.\\
+				\bottomrule
+			\end{tabular}
+			\label{table_one}
+		\end{table}
+		
+	\end{changes}
+	
+	The table is shown in Table \ref{including_criteria_r6}.
+	\begin{table}[H]
+		\centering
+		\setlength\tabcolsep{10.pt}%调列距
+		\renewcommand{\arraystretch}{1.5}%调行距
+		\caption{\textcolor{lightblue}{The criteria for including methods.}}
+		\textcolor{lightblue}{\begin{tabular}{ll}
+				\toprule
+				\textbf{Type}& \textbf{Description}\\
+				\midrule
+				Direct solution & Aiming to solve the target problem.\\
+				\arrayrulecolor{lightgray}
+				\hdashline
+				\arrayrulecolor{black}
+				\multirow{2}{*}{Indirect solution}& No aiming to solve other problems;\\
+				&Empirical validation of solving target problem.\\
+				\bottomrule
+		\end{tabular}}
+		\label{including_criteria_r6}
+	\end{table}
 	
 \end{revresponse}
 
