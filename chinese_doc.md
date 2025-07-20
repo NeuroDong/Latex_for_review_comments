@@ -29,6 +29,9 @@
 **2025年7月3号**
 - 添加表格，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/8](https://github.com/NeuroDong/Latex_for_review_comments/issues/8)
 
+**2025年7月20号**
+- 添加表格，详细见：[https://github.com/NeuroDong/Latex_for_review_comments/issues/9](https://github.com/NeuroDong/Latex_for_review_comments/issues/9)
+
 # 模板展示
 请点击[这里](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
