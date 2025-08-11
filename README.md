@@ -32,6 +32,9 @@ A modification on [Journal-Response-Letter-Template-Latex](https://github.com/sh
 **July 20, 2025**:
 - Added table in change, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/9](https://github.com/NeuroDong/Latex_for_review_comments/issues/9)
 
+**August 11,2025**:
+- Skip the number of reviewers, see: [https://github.com/NeuroDong/Latex_for_review_comments/issues/10](https://github.com/NeuroDong/Latex_for_review_comments/issues/10)
+
 # Template Display
 Please click [here](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/review_response.pdf)
 
