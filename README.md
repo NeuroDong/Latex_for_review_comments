@@ -1,6 +1,6 @@
 English| [Chinese](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/chinese_doc.md)
 
-# Latex Template for Review Comments of Papers
+# ReplyTeX: Latex Template for Review Comments of Papers
 A modification on [Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex). The modified contents include but are not limited to the following:
 
 **January 12, 2025**:
