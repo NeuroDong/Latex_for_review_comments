@@ -1,6 +1,6 @@
 [英文](https://github.com/NeuroDong/Latex_for_review_comments/blob/main/README.md)| 中文
 
-# 论文审稿意见的latex模板
+# ReplyTeX: 论文审稿意见的latex模板
 此仓库是一个对[Journal-Response-Letter-Template-Latex](https://github.com/shellywhen/Journal-Response-Letter-Template-Latex)的修改版。修改的内容包括但不局限如下：
 
 **2025年1月12号**：
